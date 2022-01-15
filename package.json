@@ -24,7 +24,7 @@
     "nodemailer": "^5.1.1",
     "nodemailer-express-handlebars": "^3.0.0",
     "nodemon": "^1.18.9",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {}
 }
